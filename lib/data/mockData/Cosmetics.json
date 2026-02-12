@@ -1,0 +1,24 @@
+{
+    "ReDiscoverData": [
+        {
+            "id": 0,
+            "name": "Ninja",
+            "img": "\uD83E\uDD77\uD83C\uDFFB"
+        },
+        {
+            "id": 1,
+            "name": "Detective",
+            "img": "\uD83D\uDD75\uD83C\uDFFB"
+        },
+        {
+            "id": 2,
+            "name": "Student",
+            "img": "\uD83E\uDDD1\uD83C\uDFFB\u200D\uD83C\uDF93"
+        },
+        {
+            "id": 3,
+            "name": "Walker",
+            "img": "\uD83E\uDD7E"
+        }
+    ]
+}

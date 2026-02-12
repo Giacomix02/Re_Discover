@@ -1,0 +1,24 @@
+{
+    "ReDiscoverData": [
+        {
+            "id": 0,
+            "skinPath": "assets/skins/default_skin.png"
+        },
+        {
+            "id": 1,
+            "skinPath": "assets/skins/default_skin.png"
+        },
+        {
+            "id": 2,
+            "skinPath": "assets/skins/default_skin.png"
+        },
+        {
+            "id": 3,
+            "skinPath": "assets/skins/default_skin.png"
+        },
+        {
+            "id": 4,
+            "skinPath": "assets/skins/default_skin.png"
+        }
+    ]
+}

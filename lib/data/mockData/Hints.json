@@ -1,0 +1,24 @@
+{
+    "ReDiscoverData": [
+        {
+            "id": 0,
+            "description": "Remember to check your inventory for hints that can help you on your journey!",
+            "images": ["assets/hints/hint_0.png"]
+        },
+        {
+            "id": 1,
+            "description": "You can customize your character's appearance in the settings menu.",
+            "images": ["assets/hints/hint_1.png", "assets/hints/hint_1_2.png"]
+        },
+        {
+            "id": 2,
+            "description": "Collect badges by visiting new places and completing challenges!",
+            "images": ["assets/hints/hint_2.png"]
+        },
+        {
+            "id": 3,
+            "description": "Don't forget to take breaks and enjoy the scenery around you.",
+            "images": ["assets/hints/hint_3.png", "assets/hints/hint_3_2.png"]
+        }
+    ]
+}

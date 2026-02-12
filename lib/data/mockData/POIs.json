@@ -1,0 +1,121 @@
+{
+  "ReDiscoverData": [
+    {
+      "id": 0,
+      "name": "La Caciotta",
+      "description": "An ancient artisanal caciotta cheese, famous for its unique flavor.",
+      "images": ["sample 1", "sample 2"],
+      "quizzesId": [0, 1, 2],
+      "qrCode": "qrCode1",
+      "positionId": 5
+    },
+    {
+      "id": 1,
+      "name": "Rieti Underground",
+      "description": "A fascinating route beneath the city of Rieti, amidst history and mystery.",
+      "images": ["sample 3", "sample 4"],
+      "quizzesId": [3, 4, 5],
+      "qrCode": "qrCode2",
+      "positionId": 6
+    },
+    {
+      "id": 2,
+      "name": "Flavio Vespasiano Theater",
+      "description": "Magnificent historic theater in Rieti, an example of neoclassical architecture.",
+      "images": ["sample 5", "sample 6"],
+      "quizzesId": [6, 7, 8],
+      "qrCode": "qrCode3",
+      "positionId": 7
+    },
+    {
+      "id": 3,
+      "name": "Colosseum",
+      "description": "The largest amphitheater in the world, symbol of ancient Rome.",
+      "images": ["sample 7", "sample 8"],
+      "quizzesId": [9, 10, 11],
+      "qrCode": "qrCode4",
+      "positionId": 8
+    },
+    {
+      "id": 4,
+      "name": "Trevi Fountain",
+      "description": "One of the most famous fountains in the world, a masterpiece of Roman Baroque.",
+      "images": ["sample 9", "sample 10"],
+      "quizzesId": [12, 13, 14],
+      "qrCode": "qrCode5",
+      "positionId": 9
+    },
+    {
+      "id": 5,
+      "name": "Pantheon",
+      "description": "Ancient Roman temple dedicated to all gods, now a Christian basilica.",
+      "images": ["sample 11", "sample 12"],
+      "quizzesId": [15, 16, 17],
+      "qrCode": "qrCode6",
+      "positionId": 10
+    },
+    {
+      "id": 6,
+      "name": "Uffizi Gallery",
+      "description": "One of the most important art museums in the world, featuring Renaissance masterpieces.",
+      "images": ["sample 13", "sample 14"],
+      "quizzesId": [18, 19, 20],
+      "qrCode": "qrCode7",
+      "positionId": 11
+    },
+    {
+      "id": 7,
+      "name": "Ponte Vecchio",
+      "description": "Historic medieval bridge in Florence, famous for its artisan shops.",
+      "images": ["sample 15", "sample 16"],
+      "quizzesId": [21, 22, 23],
+      "qrCode": "qrCode8",
+      "positionId": 12
+    },
+    {
+      "id": 8,
+      "name": "St. Mark's Square",
+      "description": "The main square of Venice, famous for St. Mark's Basilica.",
+      "images": ["sample 17", "sample 18"],
+      "quizzesId": [24, 25, 26],
+      "qrCode": "qrCode9",
+      "positionId": 13
+    },
+    {
+      "id": 9,
+      "name": "Grand Canal",
+      "description": "The main canal in Venice, traversed by gondolas and water buses (vaporettos).",
+      "images": ["sample 19", "sample 20"],
+      "quizzesId": [27, 28, 29],
+      "qrCode": "qrCode10",
+      "positionId": 14
+    },
+    {
+      "id": 10,
+      "name": "Basilica of San Bernardino",
+      "description": "Important place of worship in L'Aquila, dedicated to San Bernardino of Siena.",
+      "images": ["assets/img/san_bernardino.png"],
+      "quizzesId": [3],
+      "qrCode": "qrCode11",
+      "positionId": 15
+    },
+    {
+      "id": 11,
+      "name": "Fountain of the 99 Spouts",
+      "description": "Historic fountain in L'Aquila, symbol of the city with its numerous spouts.",
+      "images": ["sample 23", "sample 24"],
+      "quizzesId": [33, 34, 35],
+      "qrCode": "qrCode12",
+      "positionId": 16
+    },
+    {
+      "id": 15,
+      "name": "University of L'Aquila - Coppito",
+      "description": "University campus located in Coppito, L'Aquila, a center for education and research. A place of suffering.",
+      "images": ["assets/img/l_aquila.png"],
+      "quizzesId": [1],
+      "qrCode": "qrCode12",
+      "positionId": 20
+    }
+  ]
+}

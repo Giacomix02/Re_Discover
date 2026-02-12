@@ -1,0 +1,39 @@
+{
+    "ReDiscoverData": [
+        {
+            "id": 0,
+            "cityID": 0,
+            "visitedPOIs": {
+
+            }
+        },
+        {
+            "id": 1,
+            "cityID": 1,
+            "visitedPOIs": {
+
+            }
+        },
+        {
+            "id": 2,
+            "cityID": 2,
+            "visitedPOIs": {
+
+            }
+        },
+        {
+            "id": 3,
+            "cityID": 3,
+            "visitedPOIs": {
+
+            }
+        },
+        {
+            "id": 4,
+            "cityID": 4,
+            "visitedPOIs": {
+
+            }
+        }
+    ]
+}
