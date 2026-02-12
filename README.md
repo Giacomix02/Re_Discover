@@ -34,7 +34,7 @@ An exploration based application which will help the user on visiting points of 
 
 
 ## Download
-You can download the app from the release page [here](https://github.com/Loruski/Re_Discover/releases).
+You can download the app from the release page [here](https://github.com/Giacomix02/Re_Discover/releases).
 
 ## For Devs
 If you want to contribute to the project, feel free to fork the repository and submit a pull request.
